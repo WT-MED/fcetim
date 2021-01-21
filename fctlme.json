@@ -27,16 +27,12 @@
 				"link_title": "",
 				"setLink": "",
 				"image_link": "",
-				"text": "Open the FaceTime app and sign in with your Apple ID. You can also do this from Settings > FaceTime. 
-
-If you're using an iPhone, FaceTime automatically registers your phone number. To also register your email address on your iPhone, go to Settings > FaceTime > Use your Apple ID for FaceTime, and sign in with your Apple ID.
-
-If you're using an iPad or iPod touch, register your email address by tapping Settings > FaceTime > Use your Apple ID for FaceTime, and sign in with your Apple ID.",
+				"text": "If you're using an iPhone, FaceTime automatically registers your phone number. To also register your email address on your iPhone, go to Settings > FaceTime > Use your Apple ID for FaceTime, and sign in with your Apple ID.",
 				"isNative": false
 
 			},
-      {
-				"title": "Disappearing Messages",
+			{
+				"title": "Make a FaceTime call",
 				"image": "https://1.bp.blogspot.com/-w_sDPFKSaOs/YAGOVeWX6ZI/AAAAAAAAAFw/kZqpn80Ls44w8EnlT2IX8WDqC4dCKb2iQCLcBGAsYHQ/s600.png",
 				"color": "#000000",
 				"text_size": "25",
@@ -44,23 +40,7 @@ If you're using an iPad or iPod touch, register your email address by tapping Se
 				"link_title": "",
 				"setLink": "",
 				"image_link": "",
-				"text": "Use disappearing messages to keep your message history tidy. The message will disappear from your devices after the timer has elapsed. This is not for situations where your contact is your adversary — after all, if someone who receives a disappearing message really wants a record of it, they can always use another camera to take a photo of the screen before the message disappears.",
-				"isNative": false
-			},
-      	{
-				"title": "Make a FaceTime call",
-				"image": "https://1.bp.blogspot.com/-EQV6gNyF_LU/YAGOVYPiFiI/AAAAAAAAAF0/UwAxmMuCQOcUw3XKICaznkoOmZhf03nMACLcBGAsYHQ/s600.png",
-				"color": "#000000",
-				"text_size": "25",
-				"isLink": false,
-				"link_title": "",
-				"setLink": "",
-				"image_link": "",
-				"text": "To make a FaceTime call, you need the person's phone number or registered email address. There are a few ways to make a FaceTime call:
-
-In the FaceTime app, tap the plus button  and type the person's phone number or email address. Tap the number or address, then tap Audio  or Video .
-If you have the person's phone number or email address saved in your Contacts3, you can start typing their name and tap the name when it appears. Then tap Audio  or Video . 
-You can also start a FaceTime video call from your iPhone during a phone call. Tap the FaceTime icon in the Phone app to switch to FaceTime.",
+				"text": "To make a FaceTime call, you need the persons phone number or registered email address. There are a few ways to make a FaceTime call. In the FaceTime app,tap the plus button and type the persons phone number or email address.Tap the number or address, then tap Audio or Video.",
 				"isNative": false
 			},
 			{
@@ -72,11 +52,7 @@ You can also start a FaceTime video call from your iPhone during a phone call. T
 				"link_title": "",
 				"setLink": "",
 				"image_link": "",
-				"text": "When another call comes in — either a phone call or another FaceTime audio call — you can choose one of these options:
-
-End the current call and accept the incoming call.
-Accept the incoming call and put the current call on hold. 
-Decline the incoming call.",
+				"text": "When another call comes in — either a phone call or another FaceTime audio call — you can choose one of these options: End the current call and accept the incoming call. -Accept the incoming call and put the current call on hold. -Decline the incoming call. ",
 				"isNative": false
 			},
 			{
@@ -88,15 +64,19 @@ Decline the incoming call.",
 				"link_title": "",
 				"setLink": "",
 				"image_link": "",
-				"text": "On an iPhone X or later, or an iPad with Face ID, you can create a Memoji to match your personality and mood, then use the Memoji during a FaceTime video call:
-
-Open FaceTime and make a call. 
-When the call starts, tap the effects button .
-Tap the Memoji that you want to use.
-Continue your FaceTime call with your customized Memoji, or tap the X button  to continue without a Memoji or go back to the FaceTime menu.
-To change your Animoji or Memoji, or to remove it during a FaceTime call, repeat steps 2–4.
-
-",
+				"text": "On an iPhone X or later, or an iPad with Face ID, you can create a Memoji to match your personality and mood, then use the Memoji during a FaceTime video call.",
+				"isNative": false
+			},
+			{
+				"title": "Use FaceTime Live Photos",
+				"image": "https://1.bp.blogspot.com/-EQV6gNyF_LU/YAGOVYPiFiI/AAAAAAAAAF0/UwAxmMuCQOcUw3XKICaznkoOmZhf03nMACLcBGAsYHQ/s600.png",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "With iOS 12.1.4 and later, and iPadOS, you can capture moments with your friends and family using Live Photos during a FaceTime video call.",
 				"isNative": false
 			}
 		]
